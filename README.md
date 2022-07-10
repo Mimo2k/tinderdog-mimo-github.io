@@ -1,2 +1,2 @@
-# tinderdog-mimo-github.io
+# tinder dog
 A tinder website design for dogs
